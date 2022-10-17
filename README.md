@@ -1,4 +1,4 @@
-# Bubble-Tea-Shop 🧋
+# Commerce-Website
 Website for a fictional shop using HTML, CSS, JavaScript, and jQuery. Website is fully responsive, mobile-friendly, and includes a working cart. This was the final project for the [UCD COMP20030 Web Design module](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=COMP20030).
 
 ## Task
