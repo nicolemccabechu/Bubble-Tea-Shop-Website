@@ -3,7 +3,7 @@ Website for a fictional shop using HTML, CSS, JavaScript, and jQuery. Website is
 
 ## Task
 You are tasked with designing a food business website. This can be for a brick-and-mortar business (i.e. a sit-down location), for a catering organisation, a take-
-away business, or some combination of the above. The design of this website should include promotional aspects (designed to attract new customers/members) and functional elements (designed for habitual use). You may design your website principally as a promotional or functional website. 
+away business, or some combination of the above. The design of this website should include promotional aspects (designed to attract new customers/members) and functional elements (designed for habitual use). You may design your website principally as a promotional or functional website. I received an A+ grade.
 
 ## Pages
 
